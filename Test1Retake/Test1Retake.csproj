@@ -12,12 +12,4 @@
         <PackageReference Include="Swashbuckle.AspNetCore.SwaggerUI" Version="9.0.1" />
     </ItemGroup>
 
-    <ItemGroup>
-      <Folder Include="Contracts\Requests\" />
-      <Folder Include="Contracts\Responses\" />
-      <Folder Include="Controllers\" />
-      <Folder Include="Entities\" />
-      <Folder Include="Services\Abstractions\" />
-    </ItemGroup>
-
 </Project>
